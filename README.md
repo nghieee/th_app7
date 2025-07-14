@@ -1,3 +1,3 @@
 # th_app7
 
-A new Flutter project.
+22DH111077 - Nguyễn Trung Hiếu
